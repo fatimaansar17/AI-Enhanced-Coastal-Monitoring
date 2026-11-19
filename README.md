@@ -1,4 +1,4 @@
-# AI-Enhanced Coastal Monitoring Using Remote Sensing & GIS
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1dea14c5-038d-4225-b25d-97835b8381e5" /># AI-Enhanced Coastal Monitoring Using Remote Sensing & GIS
 
 A 34-Year Satellite-Based Shoreline Change Assessment (1990–2024)
 
@@ -101,6 +101,7 @@ To integrate satellite remote sensing, GIS and artificial intelligence for impro
 ---
 
 **Research Area:** Remote Sensing | GIS | Coastal Monitoring | Geospatial AI | Environmental Change Detection
+---
 ---
 
 ## Acknowledgements
