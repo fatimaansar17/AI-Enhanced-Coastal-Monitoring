@@ -101,3 +101,13 @@ To integrate satellite remote sensing, GIS and artificial intelligence for impro
 ---
 
 **Research Area:** Remote Sensing | GIS | Coastal Monitoring | Geospatial AI | Environmental Change Detection
+---
+
+## Acknowledgements
+
+This research used the open-source CoastSat framework
+as a reference for satellite-based shoreline extraction
+and coastal change analysis.
+
+Original CoastSat Repository:
+https://github.com/kvos/CoastSat
